@@ -56,6 +56,7 @@ As you can see above, this meme was inspired by **Kermit the frog**. **Kermit** 
 ### Originality 
 * This meme is orignial as for almost all of the Kermit memes on the _internet_ they are only one paneled reaction images. As opposed to a 4 panel Meme format which was mostly popular in 2012.
 I also added a touch of originality by changing the typical impact font to serif and changing the background colour to pink!
+If you want to see more Kermit Memes https://knowyourmeme.com/memes/kermit-the-frog here is a good place!
 
 Below are some images of Kermit memes that are just one panels.
 ![](https://i.kym-cdn.com/photos/images/original/002/058/561/7e6)
