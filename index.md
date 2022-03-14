@@ -1,5 +1,6 @@
 # Welcome to the first part of my assignment!
 _Making the meme_
+![](https://i0.wp.com/www.letsgababoutbooks.com/wp-content/uploads/2016/03/page-break-1.png?resize=2500%2C200&ssl=1)
 ```r
 library(magick)
 #Reading the images needed for the meme
@@ -61,3 +62,5 @@ If you want to see more Kermit Memes https://knowyourmeme.com/memes/kermit-the-f
 Below are some images of Kermit memes that are just one panels.
 ![](https://i.kym-cdn.com/photos/images/original/002/058/561/7e6)
 ![](https://cdn.kapwing.com/final_5d25160b9acc8700137c615c_995246.jpg)
+
+![](https://i0.wp.com/www.letsgababoutbooks.com/wp-content/uploads/2016/03/page-break-1.png?resize=2500%2C200&ssl=1)
